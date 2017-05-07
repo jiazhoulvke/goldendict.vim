@@ -1,6 +1,6 @@
-#goldendict.vim
+# goldendict.vim #
 
-##安装
+## 安装 ##
 
 * vim-plug
 
@@ -20,7 +20,7 @@
     git clone https://github.com/jiazhoulvke/goldendict.vim ~/.vim/bundle/goldendict.vim
 ```
 
-##配置
+## 配置 ##
 
 * 修改绑定按键(默认为\<F12\>)
 
@@ -46,7 +46,7 @@
     let g:goldendict_nocmd = 1
 ```
 
-##使用
+## 使用 ##
 
 * 移动光标到需要翻译的单词上面按\<F12\>
 
